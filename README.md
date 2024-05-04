@@ -34,7 +34,8 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter](https://twitter.com/khismatullin_ai)
+- Connect with me on [LinkedIn](https://linkedin.com/in/almir-khismatullin-a58955a4)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
