@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,cmake,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,powershell,cs,dotnet,ts,react,redux,nodejs,postman,nginx,flutter,cpp,cmake,bash,linux,gitlab,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
