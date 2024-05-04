@@ -17,4 +17,4 @@
 
 - Connect with me on [Twitter](https://twitter.com/khismatullin_ai)
 - Connect with me on [LinkedIn](https://linkedin.com/in/almir-khismatullin-a58955a4)
-- Connect with me on [Telegram](https://t.me/in/khismatullin_almir)
+- Connect with me on [Telegram](https://t.me/khismatullin_almir) 
