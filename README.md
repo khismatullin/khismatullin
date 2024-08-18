@@ -1,9 +1,9 @@
 
-## 🚀 About Me
+## 📝 About Me
 
 - I am a Software Engineer С++
 
-## Tech Stack
+## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,py,powershell,cs,dotnet,ts,react,redux,nodejs,postman,nginx,flutter,cpp,cmake,bash,linux,gitlab,docker)](https://skillicons.dev)
 
  ## 🏆 Achievements
